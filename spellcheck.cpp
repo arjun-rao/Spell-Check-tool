@@ -1,5 +1,5 @@
 /****************************************************************************
- * Proj.cpp
+ * Spellcheck.cpp
  *
  * Object Oriented Programming Course Project
  *
