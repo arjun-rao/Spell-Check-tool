@@ -14,8 +14,4 @@ If the dictionary file path is not specified, the program will use the given
 wordslist.txt as a dictionary. (has to be in same directory as spellcheck
 executable)
 
- 
-
-     
-
- 
+Contributors: Affan Ahmed, Ayush Bihani, Keshav Karanth
